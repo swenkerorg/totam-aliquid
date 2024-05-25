@@ -1,6 +1,6 @@
 {
   "name": "@swenkerorg/totam-aliquid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {},
@@ -41,7 +41,7 @@
     "@swenkerorg/voluptate-facere-illo": "^4.1.18",
     "@swenkerorg/voluptate-voluptas-ad": "^2.1.20",
     "@zitterorg/eum-veritatis-placeat": "^2.1.20",
-    "@zitterorg/illum-perferendis-consectetur": "^2.2.19",
+    "@zitterorg/illum-perferendis-consectetur": "^2.2.20",
     "analsorhost-simple-bs": "^1.0.1",
     "corcojs-qrcode": "^1.0.0",
     "corcojs-qrcode-logo": "^1.0.0",
